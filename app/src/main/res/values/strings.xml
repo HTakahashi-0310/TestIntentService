@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test IntentService</string>
+    <string name="start">Start</string>
+</resources>
